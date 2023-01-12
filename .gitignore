@@ -34,5 +34,7 @@ build/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
+### Mac os.OS ###
 .DS_Store
+# Project exclude paths
+/out/
